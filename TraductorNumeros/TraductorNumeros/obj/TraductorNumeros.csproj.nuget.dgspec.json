@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marcos\\source\\repos\\TraductorNumeros\\TraductorNumeros\\TraductorNumeros.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marcos\\source\\repos\\TraductorNumeros\\TraductorNumeros\\TraductorNumeros.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marcos\\source\\repos\\TraductorNumeros\\TraductorNumeros\\TraductorNumeros.csproj",
+        "projectName": "TraductorNumeros",
+        "projectPath": "C:\\Users\\Marcos\\source\\repos\\TraductorNumeros\\TraductorNumeros\\TraductorNumeros.csproj",
+        "packagesPath": "C:\\Users\\Marcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marcos\\source\\repos\\TraductorNumeros\\TraductorNumeros\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

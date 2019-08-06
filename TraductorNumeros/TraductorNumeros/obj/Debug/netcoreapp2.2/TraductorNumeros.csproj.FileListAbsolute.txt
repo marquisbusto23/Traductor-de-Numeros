@@ -1,0 +1,11 @@
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\bin\Debug\netcoreapp2.2\TraductorNumeros.deps.json
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\bin\Debug\netcoreapp2.2\TraductorNumeros.runtimeconfig.json
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\bin\Debug\netcoreapp2.2\TraductorNumeros.runtimeconfig.dev.json
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\bin\Debug\netcoreapp2.2\TraductorNumeros.dll
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\bin\Debug\netcoreapp2.2\TraductorNumeros.pdb
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.csprojAssemblyReference.cache
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.AssemblyInfoInputs.cache
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.AssemblyInfo.cs
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.dll
+C:\Users\Marcos\source\repos\TraductorNumeros\TraductorNumeros\obj\Debug\netcoreapp2.2\TraductorNumeros.pdb
